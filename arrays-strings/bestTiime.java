@@ -24,5 +24,6 @@ public class bestTiime {
         int maxProfit = maxProfit(prices);
 
         System.out.println(maxProfit);
+        System.out.println();
     }
 }
